@@ -12,6 +12,8 @@ planilha de coleta) em algo que dá para usar.
 - [**Buscador**](https://github.com/jpscarramal-netizen/buscador): busca instantânea de arquivos para Windows, com
   prévia de PDF de texto copiável, busca dentro dos PDFs, OCR e duplicados. Tudo local.
   [Baixar](https://github.com/jpscarramal-netizen/buscador/releases/latest)
+- [**RadioNerds**](https://radionerds.vercel.app) *(em construção)*: radiologia para estudantes de medicina, com
+  capítulos de tórax, abdome e neuro, casos comentados, cards de imagem e um visualizador 3D de TC de crânio.
 
 **Com o que trabalho:** Python, R (meta-análise), TypeScript e Next.js, Supabase, APIs de modelos de linguagem.
 
